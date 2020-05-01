@@ -1,0 +1,69 @@
+{
+  "project_info": {
+    "project_number": "1033357345004",
+    "firebase_url": "https://carbon-footprint-tracker-57f94.firebaseio.com",
+    "project_id": "carbon-footprint-tracker-57f94",
+    "storage_bucket": "carbon-footprint-tracker-57f94.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1033357345004:android:4588c878e366cb5908a5c9",
+        "android_client_info": {
+          "package_name": "com.example.myapplication10"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1033357345004-luftson0nv1dn9q7nvf1j814ht7h5ksk.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDNITsQziCh7mHcqPVKlxdlJqtnItheYLU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1033357345004-luftson0nv1dn9q7nvf1j814ht7h5ksk.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1033357345004:android:7944951fbf3c399a08a5c9",
+        "android_client_info": {
+          "package_name": "uk.ac.newcastle.carbonfootprinttracker"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1033357345004-luftson0nv1dn9q7nvf1j814ht7h5ksk.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDNITsQziCh7mHcqPVKlxdlJqtnItheYLU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1033357345004-luftson0nv1dn9q7nvf1j814ht7h5ksk.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

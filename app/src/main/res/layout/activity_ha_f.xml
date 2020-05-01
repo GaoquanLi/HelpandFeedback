@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical">
+
+
+    <TextView
+        android:id="@+id/tView01"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Common Questions:"
+        android:textSize="20sp"
+        android:layout_marginLeft="10dp"/>
+
+    <Button
+        android:id="@+id/QA1"
+        android:layout_width="match_parent"
+        android:layout_height="50dp"
+        android:layout_marginTop="10dp"
+        android:text="What items can be recycled?"
+        android:textAllCaps="false"
+        android:drawableRight="@drawable/right"
+        android:textAlignment="textStart"
+        />
+    <Button
+        android:id="@+id/QA2"
+        android:layout_width="match_parent"
+        android:layout_height="50dp"
+        android:text="About points after recycling"
+        android:textAllCaps="false"
+        android:drawableRight="@drawable/right"
+        android:textAlignment="textStart"
+        />
+
+    <LinearLayout
+        android:layout_width="fill_parent"
+        android:layout_height="0dp"
+        android:layout_weight="1"
+        android:orientation="vertical">
+    </LinearLayout>
+    <LinearLayout
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:layout_gravity="bottom"
+        android:orientation="vertical">
+
+        <Button
+            android:id="@+id/fb"
+            android:layout_width="match_parent"
+            android:layout_height="50dp"
+            android:text="Feedback"
+            android:background="@drawable/btn_orange"/>
+
+    </LinearLayout>
+
+</LinearLayout>

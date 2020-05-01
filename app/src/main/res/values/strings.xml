@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">My Application10</string>
+    <string name="q1_1">It mainly includes waste paper, plastic, glass, metal and textile five categories of household waste, hazardous waste, electronic/electrical waste and battery three categories of special hazard waste and abandoned furniture waste.</string>
+    <string name="q1_2">Waste paper mainly includes: newspapers, magazines, books, all kinds of wrapping paper, office paper, paper boxes, etc., but paper towels and sanitary paper because the water solubility is too strong can not be recycled;</string>
+    <string name="q1_3">Plastic mainly includes: all kinds of plastic bags, plastic packaging and tableware, toothbrushes, cups, mineral water bottles, plastic toys, plastic stationery, plastic articles for daily use, shampoo bottles, hand sanitizer bottles, washing liquid bottles, detergent bottles;</string>
+    <string name="q1_4">Glass mainly includes: glass beverage bottles, glass bottles, broken glass, broken glass, waste glass, lenses, mirrors, etc., according to the recovery process, glass is divided into colorless glass, green glass, brown glass;</string>
+    <string name="q1_5">Metal mainly includes: cans, metal cans, ornaments, aluminum foil, iron sheet, nails, iron pipe, waste iron wire, old steel wire ball, copper wire, etc., according to the classification of recycled materials: iron, non-iron (generally refers to non-ferrous metals);</string>
+    <string name="q1_6">Textiles mainly include: discarded clothes, trousers, socks, towels, schoolbags, cloth shoes, bedsheets, bedding, plush toys and so on.</string>
+
+    <string name="q2_1">The system will automatically reward you with points after you select the items and confirm their recovery.</string>
+    <string name="q2_2">If you do not get point or you do not get the right point, try to refresh the page while making sure your network environment is working</string>
+</resources>
